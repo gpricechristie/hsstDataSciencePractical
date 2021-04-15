@@ -8,3 +8,5 @@ File description:
   <li>dataSciencePractical1.ipynb is hte notebook itself
   <li>runtime.txt specifies the kernel (R) to be used when the notebook is run via binder
 </ol>
+
+This tutorial should be accessible at the binder URL https://hub.gke2.mybinder.org/user/gpricechristie--ciencepractical-aflytecq/notebooks/dataSciencePractical1.ipynb
